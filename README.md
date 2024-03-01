@@ -15,7 +15,7 @@ IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2024)
 
 [C1] **HairFIT: Pose-invariant Hairstyle Transfer via Flow-based Hair Alignment and Semantic-region-aware Inpainting** [[arxiv](https://arxiv.org/abs/2206.08585)]\
 Chaeyeon Chung*, Taewoo Kim*, **Hyelin Nam***, Seunghwan Choi, Gyojung Gu, Sunghyun Park, and Jaegul Choo\
-British Machine Vision Conference (BMVC), 2021, Virtual, Accepted as Oral Presentation.\
+British Machine Vision Conference (BMVC 2021), Accepted as Oral Presentation.\
 Best Paper Award, Korean Artificial Intelligence Association 2021.
 <br/>
 
