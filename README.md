@@ -6,14 +6,6 @@ Good day! I'm MS student in BISPL (under the supervision of Professor Jong Chul 
 I am interested in generative models, especially diffusion models.
 
 Feel free to reach out to me at <hyelin.nam@kaist.ac.kr>.
-
-<a href="https://github.com/HyelinNAM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hyelin-nam-01ab631a3" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 <br/>
 
 ### Research 🖋️
